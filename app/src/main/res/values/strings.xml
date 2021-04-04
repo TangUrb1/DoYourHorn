@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoYourHorn</string>
+
+    <string-array name="colors">
+        <item>Blue</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>White</item>
+    </string-array>
+</resources>
